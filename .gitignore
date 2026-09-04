@@ -1,0 +1,14 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Never commit a private key here. public-key.pem is the only key that belongs.
+*-priv.pem
+*.private.pem
+release-priv*.pem
+
+# Downloaded release assets used for local verification.
+app.*.phar
+checksums.txt
+checksums.txt.sig
+index.php

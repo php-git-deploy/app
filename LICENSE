@@ -1,0 +1,21 @@
+PHP Git Deploy
+
+Copyright (c) 2025-2026 Jakub Pelák, Slovakia. All rights reserved.
+
+This repository distributes PHP Git Deploy in compiled form. It contains the
+release artifacts published under GitHub Releases and the helper files needed
+to verify and install them. The software is proprietary and not open source.
+Jakub Pelák, a natural person, is the sole author and copyright holder of all
+first-party code. Third-party components remain under their own licenses, as
+listed in THIRD_PARTY_NOTICES.md.
+
+This is a personal project. It was not commissioned by, developed for, or
+created in the course of employment, membership in any corporate body, or any
+work assignment for any company or other person, and it did not arise as a
+byproduct of any such work.
+
+No right to use, copy, reproduce, modify, publish, or distribute this
+software, in whole or in part, is granted except as expressly permitted in
+writing by the copyright holder. Any rights of end users to run the
+distributed application are governed solely by the End User License Agreement
+published at https://www.php-git-deploy.com/terms.
